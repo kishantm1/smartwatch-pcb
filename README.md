@@ -47,12 +47,11 @@ The board is centered around the ESP32-S3 microcontroller and integrates sensing
 
 The 2-layer PCB layout was designed to fit within a compact smartwatch form factor while routing sensor, display/touch, and power connections.
 
-![PCB Layout](images/Smartwatch%20Layout.png)
+<img src="images/Smartwatch%20Layout.png" alt="PCB Layout" width="700">
 
 ## 3D View
 
-![3D View](images/Smartwatch%203D%20Viewer.png)
-
+<img src="images/Smartwatch%203D%20Viewer.png" alt="3D View" width="600">
 ## Assembly 
 
 The board was assembled using solder paste, manual component placement, and reflow soldering.
