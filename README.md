@@ -79,12 +79,18 @@ Testing included:
 - Checking sensor behavior
 - Testing I2C connection to connected ICs
 
-![Testing](images/Smartwatch%20Testing.png)
+<img src="images/Smartwatch%20Testing.png" alt="Testing setup" width="450">
 
 ## Final Board
 
-![Final Board Front](images/Smartwatch%20Final%20Front.JPG)
+**Front side**
 
-![Final Board Back](images/Smartwatch%20Final%20Back.png)
+<img src="images/Smartwatch%20Final%20Front.JPG" alt="Final board front side" width="500">
 
-![Final Watch](images/Smartwatch%20Final.png)
+**Back side**
+
+<img src="images/Smartwatch%20Final%20Back.png" alt="Final board back side" width="500">
+
+**Watch display on wrist**
+
+<img src="images/Smartwatch%20Final.png" alt="Watch display on wrist" width="500">
