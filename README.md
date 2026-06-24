@@ -99,3 +99,6 @@ Firmware development is currently underway. The current firmware supports on-dev
 <img src="images/Smartwatch%20Final.png" alt="Watch display on wrist" width="500">
 
 ** Environment screen: Weather, Barometric Pressure & Altitude
+
+<img src="images/Smartwatch%20Environment%20Screen.png" alt="Smartwatch Environment Screen" width="500">
+
