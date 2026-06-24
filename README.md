@@ -90,6 +90,12 @@ Testing included:
 
 <img src="images/Smartwatch%20Final%20Back.png" alt="Final board back side" width="500">
 
-**Watch display on wrist**
+## Firmware
+
+Firmware development is currently underway. The current firmware supports on-device display screens for health and environmental data, including step count, skin temperature, and weather, barometric pressure, and altitude.
+
+**Health screen: Step Count & Skin Temperature**
 
 <img src="images/Smartwatch%20Final.png" alt="Watch display on wrist" width="500">
+
+** Environment screen: Weather, Barometric Pressure & Altitude
