@@ -22,8 +22,9 @@ The board is centered around the ESP32-S3 microcontroller and integrates sensing
 - **Wireless communication:** Bluetooth/BLE through the ESP32-S3
 - **Display/UI:** Touchscreen display for time, health data, and environmental data
 - **Display communication:** SPI display interface
-- **Power:** 3.7V LiPo battery
+- **Power:** 3.7V LiPo battery with USB-C charging and regulated 3.3V system power
 - **Debug/programming:** Boot and reset support circuitry
+- **Indicators:** Status LED for board/charging indication
 
 ## Schematic
 
