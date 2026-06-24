@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LPS25HBTR")(type "KiCad")(uri "/Users/siddh/Documents/GitHub/sp26-hope-final-project-group-14-stryd/libraries/LPS25HBTR.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM6DSO32TR")(type "KiCad")(uri "/Users/siddh/Documents/GitHub/sp26-hope-final-project-group-14-stryd/libraries/LSM6DSO32TR.kicad_sym")(options "")(descr ""))
+)
