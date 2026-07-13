@@ -123,7 +123,7 @@ The firmware maintains a central watch state containing the latest sensor measur
 
 **Home screen: Time, Date, Bluetooth & Battery Status**
 
-<img src="images/Smartwatch%20Home%20Screen.png" alt="Smartwatch home screen showing time, date, Bluetooth status, and battery status" width="500" height="500">
+<img src="images/Smartwatch%20Home%20Screen.png" alt="Smartwatch home screen showing time, date, Bluetooth status, and battery status" width="500" height="700">
 
 **Health screen: Step Count & Skin Temperature**
 
@@ -131,5 +131,5 @@ The firmware maintains a central watch state containing the latest sensor measur
 
 **Environment screen: Weather, Barometric Pressure & Altitude**
 
-<img src="images/Smartwatch%20Environment%20Screen.png" alt="Smartwatch Environment Screen" width="500" height="500">
+<img src="images/Smartwatch%20Environment%20Screen.png" alt="Smartwatch Environment Screen" width="500" height="700">
 
