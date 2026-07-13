@@ -95,9 +95,13 @@ Testing included:
 
 Firmware development is currently underway. The current firmware supports on-device display screens for health and environmental data, including step count, skin temperature, and weather, barometric pressure, and altitude.
 
+**Home screen: Time, Date, Bluetooth & Battery Status**
+
+<img src="images/Smartwatch%20Home%20Screen.png" alt="Smartwatch home screen showing time, date, Bluetooth status, and battery status" width="500">
+
 **Health screen: Step Count & Skin Temperature**
 
-<img src="images/Smartwatch%20Final.png" alt="Watch display on wrist" width="500">
+<img src="images/Smartwatch%20Health%20Screen%20.png" alt="Smartwatch health screen showing step count and skin temperature" width="500">
 
 **Environment screen: Weather, Barometric Pressure & Altitude**
 
