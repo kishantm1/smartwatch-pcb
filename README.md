@@ -111,7 +111,7 @@ The watch figures out where it is and what time it is without ever needing to pa
 
 The ESP32-S3 runs a Bluetooth Low Energy (BLE) GATT server that organizes the watch's sensor data, including step count, skin temperature, pressure, and altitude, as a set of services and characteristics that any nearby device can connect to. This was confirmed using a generic BLE inspection app, LightBlue, which connected to the watch and read back the correct decoded value for each characteristic. The image shows the app discovered the watch's custom Health Service along with its four characteristics.
 
-<img src="images/Smartwatch%20BLE%20Connectivity.jpg" alt="BLE app showing connected SmartWatch GATT services" width="500">
+<img src="images/Smartwatch%20BLE%20Connectivity.jpg" alt="BLE app showing connected SmartWatch GATT services" width="500" height="600">
 
 ### Touchscreen Navigation
 
@@ -123,7 +123,7 @@ The firmware maintains a central watch state containing the latest sensor measur
 
 **Home screen: Time, Date, Bluetooth & Battery Status**
 
-<img src="images/Smartwatch%20Home%20Screen.png" alt="Smartwatch home screen showing time, date, Bluetooth status, and battery status" width="500">
+<img src="images/Smartwatch%20Home%20Screen.png" alt="Smartwatch home screen showing time, date, Bluetooth status, and battery status" width="500" height="500">
 
 **Health screen: Step Count & Skin Temperature**
 
@@ -131,5 +131,5 @@ The firmware maintains a central watch state containing the latest sensor measur
 
 **Environment screen: Weather, Barometric Pressure & Altitude**
 
-<img src="images/Smartwatch%20Environment%20Screen.png" alt="Smartwatch Environment Screen" width="500">
+<img src="images/Smartwatch%20Environment%20Screen.png" alt="Smartwatch Environment Screen" width="500" height="500">
 
